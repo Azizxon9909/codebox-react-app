@@ -1,0 +1,19 @@
+.footer{
+    background-color: #0b414c;
+    a{
+      color: white;
+    }
+    p{
+      color: white;
+      margin: 5px;
+    }
+    .badge {
+      background-color: #1d1d1d;
+      border-radius: 5px;
+      width: 35px;
+      cursor: pointer;
+    }
+    .badge:hover {
+      background-color: orangered;
+    }
+  }

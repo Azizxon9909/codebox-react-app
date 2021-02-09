@@ -1,0 +1,37 @@
+.header .navbar {
+  padding: 0;
+}
+
+.header .active {
+  border-bottom: 3px solid green;
+}
+
+.header img {
+  cursor: pointer;
+}
+
+.header .btnA {
+  border: 1px solid lightgray;
+}
+
+.header a {
+  color: black;
+  border-bottom: 3px solid transparent;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  font-size: 18px;
+}
+
+.header a:hover {
+  border-bottom: 3px solid green;
+}
+
+.header dd {
+  margin: 0;
+  color: gray;
+}
+
+.header dl {
+  margin: 0;
+}
+/*# sourceMappingURL=navbar.css.map */
