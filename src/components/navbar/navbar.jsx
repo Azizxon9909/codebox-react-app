@@ -87,9 +87,9 @@ class Navbar extends Component {
                     <NavLink className="dropdown-item" to="/tolovlar">
                       To'lovlar
                     </NavLink>
-                    <a className="dropdown-item" href="#">
+                    <NavLink className="dropdown-item" to="/chiqish">
                       Chiqish
-                    </a>
+                    </NavLink>
                   </div>
                 </div>
               </form>

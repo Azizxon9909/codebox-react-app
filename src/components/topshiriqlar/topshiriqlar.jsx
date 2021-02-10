@@ -103,7 +103,7 @@ export default class Topshiriqlar extends Component {
                       </div>
                       <div class="col-lg-12">
                         <button class="btn btn-success mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png" alt="rasm"/>
                         </button>
                       </div>
                     </div>
@@ -148,7 +148,7 @@ export default class Topshiriqlar extends Component {
                       </div>
                       <div class="col-lg-12">
                         <button class="btn btn-success mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png"  alt="rasm"/>
                         </button>
                       </div>
                     </div>
@@ -193,7 +193,7 @@ export default class Topshiriqlar extends Component {
                       </div>
                       <div class="col-lg-12">
                         <button class="btn btn-warning mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png" alt="rasm" />
                         </button>
                       </div>
                     </div>
@@ -238,7 +238,7 @@ export default class Topshiriqlar extends Component {
                       </div>
                       <div class="col-lg-12">
                         <button class="btn btn-warning mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png" alt="rasm" />
                         </button>
                       </div>
                     </div>
@@ -283,7 +283,7 @@ export default class Topshiriqlar extends Component {
                       </div>
                       <div class="col-lg-12">
                         <button class="btn btn-primary mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png"  alt="rasm"/>
                         </button>
                       </div>
                     </div>
@@ -328,7 +328,7 @@ export default class Topshiriqlar extends Component {
                       </div>
                       <div class="col-lg-12">
                         <button class="btn btn-primary mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png" alt="rasm" />
                         </button>
                       </div>
                     </div>

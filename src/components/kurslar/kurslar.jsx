@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import './kurslar.css'
+import "./kurslar.css";
 export default class Kurslar extends Component {
   render() {
     return (
@@ -254,7 +254,7 @@ export default class Kurslar extends Component {
                     <br />
                     <a
                       className="text-decoration-none"
-                      style={{color: 'white'}}
+                      style={{ color: "white" }}
                       href="index4.html"
                     >
                       <button className="btn btn-success">
@@ -305,7 +305,8 @@ export default class Kurslar extends Component {
                     <br />
                     <br />
                     <button className="btn btn-success">
-                      Davom ettirish <img src="image/arrow-right.png" />
+                      Davom ettirish{" "}
+                      <img src="image/arrow-right.png" alt="rasm" />
                     </button>
                   </div>
                 </div>
@@ -380,7 +381,8 @@ export default class Kurslar extends Component {
                     saepe suscipit tempora totam vero voluptates?
                   </div>
                   <button className="btn btn-success">
-                    Kursni boshlash <img src="image/arrow-right.png" />
+                    Kursni boshlash{" "}
+                    <img src="image/arrow-right.png" alt="rasm" />
                   </button>
                 </div>
               </div>
@@ -408,7 +410,8 @@ export default class Kurslar extends Component {
                     saepe suscipit tempora totam vero voluptates?
                   </div>
                   <button className="btn btn-success">
-                    Kursni boshlash <img src="image/arrow-right.png" />
+                    Kursni boshlash{" "}
+                    <img src="image/arrow-right.png" alt="rasm" />
                   </button>
                 </div>
               </div>

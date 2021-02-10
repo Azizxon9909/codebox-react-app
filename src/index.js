@@ -8,8 +8,12 @@ import Kurslar from "./components/kurslar/kurslar";
 import Xato from "./components/xato/xato.jsx";
 import Bolimlar from "./components/bolimlar/bolimlar";
 import Topshiriqlar from "./components/topshiriqlar/topshiriqlar";
- import Dashboard from "./components/dashboard/dashboard";
+import Dashboard from "./components/dashboard/dashboard";
 import Tolovlar from "./components/tolovlar/tolovlar";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'jquery';
+import 'popper.js'
+import 'bootstrap/dist/js/bootstrap.min';
 ReactDOM.render(
   <BrowserRouter>
     <Navbar />
@@ -20,7 +24,7 @@ ReactDOM.render(
       <Route exact path="/topshiriqlar" component={Topshiriqlar} />
       <Route exact path="/dashboard" component={Dashboard} />
       <Route exact path="/tolovlar" component={Tolovlar} />
-      <Route component= {Xato} />
+      <Route component={Xato} />
     </Switch>
     <Footer />
   </BrowserRouter>,

@@ -82,7 +82,7 @@ export default class Bolimlar extends Component {
                           href="index5.html"
                         >
                           <button className="btn btn-success mt-lg-2">
-                            Bajarish <img src="image/arrow-right.png" />
+                            Bajarish <img src="image/arrow-right.png" alt="rasm" />
                           </button>
                         </a>
                       </div>
@@ -116,7 +116,7 @@ export default class Bolimlar extends Component {
                       </div>
                       <div className="col-lg-6">
                         <button className="btn btn-success mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png"  alt="rasm"/>
                         </button>
                       </div>
                     </div>
@@ -149,7 +149,7 @@ export default class Bolimlar extends Component {
                       </div>
                       <div className="col-lg-6">
                         <button className="btn btn-success mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png"  alt="rasm"/>
                         </button>
                       </div>
                     </div>
@@ -182,7 +182,7 @@ export default class Bolimlar extends Component {
                       </div>
                       <div className="col-lg-6">
                         <button className="btn btn-success mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png"  alt="rasm"/>
                         </button>
                       </div>
                     </div>
@@ -215,7 +215,7 @@ export default class Bolimlar extends Component {
                       </div>
                       <div className="col-lg-6">
                         <button className="btn btn-success mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png"  alt="rasm"/>
                         </button>
                       </div>
                     </div>
@@ -248,7 +248,7 @@ export default class Bolimlar extends Component {
                       </div>
                       <div className="col-lg-6">
                         <button className="btn btn-success mt-lg-2">
-                          Bajarish <img src="image/arrow-right.png" />
+                          Bajarish <img src="image/arrow-right.png"  alt="rasm"/>
                         </button>
                       </div>
                     </div>
